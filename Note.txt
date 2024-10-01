@@ -1,0 +1,4 @@
+php --ini
+-desactiver protection (pour que laravel peut créer dossier)
+-pdo_mysql
+-php artisan migrate
